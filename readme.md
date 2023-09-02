@@ -1,5 +1,10 @@
 # Demo-Link
 https://rahul9695.github.io/basic-ecommerce-homepage/
+![Screenshot (503)](https://github.com/rahul9695/basic-ecommerce-homepage/assets/120627949/e6e7319e-1011-47af-8018-a8f5d86580ef)
+![Screenshot (504)](https://github.com/rahul9695/basic-ecommerce-homepage/assets/120627949/0b9c4efd-1a7f-44db-858a-24d134ffc811)
+![Screenshot (505)](https://github.com/rahul9695/basic-ecommerce-homepage/assets/120627949/dcdf5fa1-52b8-4487-9bef-6be205acca67)
+![Screenshot (506)](https://github.com/rahul9695/basic-ecommerce-homepage/assets/120627949/22144ab6-0dab-46d0-9ad4-5873269875e1)
+![Screenshot (507)](https://github.com/rahul9695/basic-ecommerce-homepage/assets/120627949/274ba532-00d9-4625-87f6-5e79b0d8c0f9)
 
 
 # Style Explanation
