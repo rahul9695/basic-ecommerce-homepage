@@ -2,7 +2,7 @@
 https://rahul9695.github.io/basic-ecommerce-homepage/
 
 
-
+# Style Explanation
 | Selector         | Property-Value Pairs                                    | Explanation                                              |
 | ---------------- | ------------------------------------------------------- | -------------------------------------------------------- |
 | `*`              | `margin`: 0;<br>`padding`: 0;<br>`box-sizing`: border-box; | Resets margins and paddings to zero and sets box-sizing to border-box for all elements. |
